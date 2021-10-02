@@ -1,6 +1,11 @@
 # StructuredLoggin
 Structured logging in Asp.net core with Seq and Serilog. 
 
+# Benefits of structur logging with Serilog and Seq
+* You get a nice overview of what is happening during the run time of application 
+* With seq you can filter and search 
+* You can easily find the error 
+
 # Packages
 * Serilog.AspNetCore
 * Serilog.Enrichers.Envirement
