@@ -8,3 +8,13 @@
 10/02/2021 20:49:33 We caught this exception in the Index Get call "System.Exception: An error has occured inside the loop
    at StructuredLogging.Pages.IndexModel.OnGet() in C:\Users\ehsan\source\repos\StructuredLogging\StructuredLogging\Pages\Index.cshtml.cs:line 29"
 10/02/2021 20:49:33 HTTP "GET" "/" responded 200 in 428.4867 ms
+10/02/2021 21:26:16 Application Starting Up
+10/02/2021 21:26:19 You requested the Index page
+10/02/2021 21:26:19 The value of i is 0
+10/02/2021 21:26:19 The value of i is 1
+10/02/2021 21:26:19 The value of i is 2
+10/02/2021 21:26:19 The value of i is 3
+10/02/2021 21:26:19 The value of i is 4
+10/02/2021 21:26:19 We caught this exception in the Index Get call "System.Exception: An error has occured inside the loop
+   at StructuredLogging.Pages.IndexModel.OnGet() in C:\Users\ehsan\source\repos\StructuredLogging\StructuredLogging\Pages\Index.cshtml.cs:line 29"
+10/02/2021 21:26:20 HTTP "GET" "/" responded 200 in 482.1106 ms
